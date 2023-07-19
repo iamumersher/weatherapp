@@ -5,6 +5,7 @@ import { LocationOn, SettingsBrightness, Opacity, Brightness5, Brightness6, Deha
 const Row = styled(Typography)({
     padding: 10,
     fontSize: 20,
+    color:'#ffff',
     letterSpacing: 2,
     '& > svg': {
         marginRight: 10

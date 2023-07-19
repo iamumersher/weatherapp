@@ -10,7 +10,8 @@ const Component = styled(Box)({
     display: 'flex',
     alignItems: 'center',
     margin: '0 auto',
-    width: '100%'
+    width: '100%',
+    backgroundColor:'#81c4ff'
 })
 
 const Image = styled(Box)({
